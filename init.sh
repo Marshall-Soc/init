@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -rf /home/rstudio/work/*
+rm -rf /home/onyxia/work/*
